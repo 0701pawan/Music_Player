@@ -6,3 +6,6 @@ This project allow us to select the folder manually in which has songs and play 
 tkinter :- It provides the the interface for our music player in which has list of songs and other buttons
 
 pygame :- It allow us to play and  pause the  the music 
+
+# Watch how it works
+https://youtu.be/1kPJ1EuATdY
